@@ -1,0 +1,70 @@
+.header{
+    background-color: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    font-family:helvetica neue,Arial, Helvetica, sans-serif ;
+    margin: 0;}
+.logo{width: 50%;
+padding-top: 32px;
+float: left;
+}
+.login{width: 50%;
+float: left;}
+.logotext{color:#fff;
+font-size: 39px;
+font-weight: bold;
+text-decoration: none;
+font-family:helvetica neue,Arial, Helvetica, sans-serif ;
+margin-left: 170px;}
+.logincolor{color: #fff;
+font-size: 14px;
+}
+.logintable{  
+    margin-left: 100px;
+margin-top: 10px;
+}
+.forgotten{
+    
+    font-size: 13px;
+    color: #9cb4d8;
+ }
+ .button{background-color: #4267b2;
+color: #fff;
+height: 20px;
+border-color: #29487d;
+cursor: pointer;
+}
+.button:hover{background-color:#29487d;}
+.leftsection{ width: 50%;
+float: left;
+padding-left: 134px;
+padding-top: 52px;}
+.rigthsection{width: 40%;
+float: left;}
+.mainbody{ background: linear-gradient(white,#d3d8e8);
+width: 100%;
+height: 500px;}
+.img{width: 550px;}
+.para{font-weight: bold;
+font-size: 21px;}
+.box {width: 411px;
+height: 27px;
+font-size: 16px;
+border-radius: 5px;
+border-color: rgb(182, 178, 178);
+border-top-color: #dddee2;
+}
+.name{width: 200px;
+height: 28px;
+font-size: 17px;
+border-radius: 5px;
+border-color: rgb(250, 245, 245);
+border-top-color: #e5e5e6;}
+.signup{background-color: rgb(49, 133, 33);
+color: #fff;
+font-size: 20px;
+border-radius: 5px;
+width: 150px;
+height: 30px;}
